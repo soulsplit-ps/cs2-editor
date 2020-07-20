@@ -1,7 +1,6 @@
 package dawn.cs2;
 
 import dawn.cs2.instructions.*;
-import mgi.utilities.ByteBuffer;
 
 import java.io.File;
 import java.io.FileInputStream;

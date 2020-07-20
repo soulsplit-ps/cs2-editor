@@ -2,7 +2,6 @@ package dawn.cs2;
 
 import dawn.cs2.ast.*;
 import dawn.cs2.instructions.*;
-import mgi.utilities.ByteBuffer;
 
 import java.io.IOException;
 import java.io.PrintWriter;
