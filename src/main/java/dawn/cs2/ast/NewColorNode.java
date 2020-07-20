@@ -32,7 +32,7 @@ public class NewColorNode extends ExpressionNode {
 //            if (data == -1) {
 //                printer.print("null");
 //            } else {
-                printer.print(String.format("0x%06X", (0xFFFFFF & data)));
+                printer.print(String.valueOf(data));
 //            }
         } else {
             printer.print("color(");
